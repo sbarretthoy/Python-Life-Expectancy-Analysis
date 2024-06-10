@@ -27,6 +27,7 @@ Python libraries were used such as pandas, numpy, os, matplotlib.pyplot, seaborn
 ## Project Outline
 
 1. **01 Project Management** includes the project brief provided for this project, data profile, and data source information.
-2. **03 Scripts** includes the Python code
-3. **04 Analysis/Visualizations** includes the visualizations created in Python
+2. **02 Data** Contains data used for this analysis
+3. **03 Scripts** includes the Python code
+4. **04 Analysis/Visualizations** includes the visualizations created in Python
 
