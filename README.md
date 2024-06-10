@@ -9,10 +9,10 @@ As someone with a background in healthcare and biology I chose a topic that coul
 
 ## Key Questions
 
-- 1.  Has life expectancy increased or decreased from 2000 – 2014?
-- 2.	Does GDP indicate a high life expectancy?
-- 3.	Does HDI indicate a high life expectancy?
-- 4.	Does population effect life expectancy positively or negatively?
+- Has life expectancy increased or decreased from 2000 – 2014?
+- Does GDP indicate a high life expectancy?
+- Does HDI indicate a high life expectancy?
+- Does population effect life expectancy positively or negatively?
 
 ## Data
 
